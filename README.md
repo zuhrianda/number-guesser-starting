@@ -1,0 +1,1 @@
+This is the first challenge project of Javascript syntax course from codecademy.
